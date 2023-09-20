@@ -1,0 +1,14 @@
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\bin\Debug\net6.0\Lab_2_Ex_4.exe
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\bin\Debug\net6.0\Lab_2_Ex_4.deps.json
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\bin\Debug\net6.0\Lab_2_Ex_4.runtimeconfig.json
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\bin\Debug\net6.0\Lab_2_Ex_4.dll
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\bin\Debug\net6.0\Lab_2_Ex_4.pdb
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\obj\Debug\net6.0\Lab_2_Ex_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\obj\Debug\net6.0\Lab_2_Ex_4.AssemblyInfoInputs.cache
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\obj\Debug\net6.0\Lab_2_Ex_4.AssemblyInfo.cs
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\obj\Debug\net6.0\Lab_2_Ex_4.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\obj\Debug\net6.0\Lab_2_Ex_4.dll
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\obj\Debug\net6.0\refint\Lab_2_Ex_4.dll
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\obj\Debug\net6.0\Lab_2_Ex_4.pdb
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\obj\Debug\net6.0\Lab_2_Ex_4.genruntimeconfig.cache
+D:\VisualStudio\Lab_2_Ex_4\Lab_2_Ex_4\obj\Debug\net6.0\ref\Lab_2_Ex_4.dll
